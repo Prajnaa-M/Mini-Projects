@@ -10,6 +10,16 @@ A mini Microsoft Excel project created to practice data cleaning, analysis, pivo
 This project analyzes transaction data from a coffee shop to identify revenue trends, customer purchasing patterns, product performance, and store performance. The final deliverable is an interactive Excel dashboard supported by business insights.
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+## Business Insights
+
+![Business Insights](insights.png)
+
+---
 
 ## Skills Practiced
 
@@ -52,8 +62,7 @@ This project analyzes transaction data from a coffee shop to identify revenue tr
 
 ## Files
 
-- `Bean_and_Bloom_Cafe_Dashboard.xlsx` – Complete Excel workbook containing the dataset, pivot tables, charts, dashboard, and business insights.
-- `dashboard.png` – Preview of the final dashboard.
+- [📊 Bean_and_Bloom_Cafe_Dashboard.xlsx](Bean_and_Bloom_Cafe_Dashboard.xlsx) – Complete Excel workbook containing the dataset, pivot tables, charts, dashboard, and business insights.
 
 ---
 

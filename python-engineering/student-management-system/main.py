@@ -27,6 +27,7 @@ def main():
     else:
         print('goodbye')
 
-main()
+if __name__=="__main__":
+    main()
 
 

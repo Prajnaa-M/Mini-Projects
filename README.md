@@ -1,47 +1,51 @@
-# 🌱 Mini Projects
+# 🧪 Sandbox
 
-A collection of small projects built while learning data analytics, programming, and software development.
+My engineering playground for building, experimenting, and sharpening technical skills through consistent hands-on practice.
 
-These projects are focused on learning individual tools and concepts before applying them to larger end-to-end portfolio projects.
-
----
-
-## 📊 Excel
-
-| Project | Status | Skills |
-|---------|--------|--------|
-| ☕ Bean & Bloom Café Sales Analysis | ✅ Completed | Excel, Pivot Tables, Pivot Charts, Dashboard Design, Business Analysis |
+This repository contains my daily coding practice, experiments, smaller projects, and technical learning across Python, data, software engineering, and databases.
 
 ---
 
-## 🗄 SQL
+## ⚙️ Engineering Tracks
 
-Projects coming soon...
+### 🐍 Python
+- Python fundamentals & problem solving
+- Advanced Python concepts
+- Object-Oriented Programming
+- Testing with `pytest`
+- Small Python projects
+
+### 📊 Data & Analytics
+- Excel-based analysis
+- NumPy & Pandas
+- Data cleaning and manipulation
+- Exploratory analysis
+- Visualization experiments
+
+### 🗄️ Databases & SQL
+- SQL practice
+- Database fundamentals
+- Query optimization
+- Data modeling experiments
+
+### 🔧 Python Engineering
+- Modular code
+- File handling & JSON
+- Testing
+- Project structure
+- Building maintainable applications
 
 ---
 
-## 🐍 Python
+## 🏁 Current Engineering Goals
 
-Projects coming soon...
-
----
-
-## 📈 Tableau / Power BI
-
-Projects coming soon...
-
----
-
-## 🎯 Goal
-
-These mini projects help me practice individual skills that will later be combined into larger portfolio projects.
-
-Current major projects:
-
-- 🎵 Spotify Mood Analysis
-- 📅 College Timetable Optimization
-- 🖼 Art Gallery Management System
+- [ ] Strengthen Python problem-solving
+- [ ] Complete core DSA patterns in Python
+- [ ] Build strong SQL fundamentals
+- [ ] Complete NumPy & Pandas practice
+- [ ] Build and deploy data-driven applications
+- [ ] Practice writing tested, maintainable Python
+- [ ] Build projects that combine multiple technical skills
 
 ---
 
-Thanks for visiting! 🌿

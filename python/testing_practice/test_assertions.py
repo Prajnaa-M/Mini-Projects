@@ -1,0 +1,9 @@
+def add(a,b):
+    return a+b
+
+def test():
+    assert add(3,4)==7
+
+
+
+
